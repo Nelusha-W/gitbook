@@ -34,6 +34,7 @@ draft: false
 - [Pixabay](https://pixabay.com/)
 - [Alamy – Stock Photos, Stock Images & Vectors](https://www.alamy.com/)
 - [Artvee](https://artvee.com/)
+- [3D Bay](https://clouddevs.com/3dbay/) A collection of free 3D stock images for download
 
 ## Free Animation Asset
 - [Piskelapp](https://www.piskelapp.com/) free online editor for animated sprites & pixel art
